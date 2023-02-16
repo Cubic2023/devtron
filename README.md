@@ -191,7 +191,7 @@ Devtron is trusted by Enterprises and Communities all across the globe:
 - [Livspace:](https://www.livspace.com/in) Livspace is a home interior and renovation company, that provides interior design and renovation services in Singapore and India
 - [Moglix:](https://www.moglix.com/) Moglix is an industrial B2B marketplace and an e-commerce platform for industrial tools and equipment, used largely by businesses in India
 - [Xoxoday:](https://www.xoxoday.com/) Xoxoday provides technology infrastructure to enable businesses to automate rewards, incentives & payouts for employees, customers & channel partners
-- [Livspace:](https://cubicassociates.com/) Cubic Interior is a home interior and renovation company, that provides interior design and renovation services in Hyderabad
+- [Cubic:](https://cubicassociates.com/) Cubic Interior is a home interior and renovation company, that provides interior design and renovation services in Hyderabad
  
 ## :question: FAQs & Troubleshooting
  
